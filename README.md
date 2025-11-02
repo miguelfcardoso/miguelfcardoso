@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtmaXM4d2M3YjdjZ2x6YXA4dmtqcmthdXphbzRicTE5N2duNWk2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fl3jw1xFrpmxGUrWzS/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU5eWRrcGx0MWQ1aWxmYnNsb3Zocmd2ZGtlem0yenlpbmdnOHV5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nv99yd56AMNDa/giphy.gif"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ever</p>
+<p align="left">✨ Creating bugs since ... birth</p>
 
 ###
 
@@ -65,6 +65,18 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/miguelfcardoso/miguelfcardoso/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelfcardoso/miguelfcardoso/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguelfcardoso/miguelfcardoso/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/miguelfcardoso/miguelfcardoso/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/xovntklotbo2zjsokmh7eq8xe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xovntklotbo2zjsokmh7eq8xe&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
